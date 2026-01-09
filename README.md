@@ -1,4 +1,4 @@
-# ft_otp
+# totp-generator
 
 ## Description
 This program allows you to securely store an initial secret in an encrypted file and generate a new TOTP (Time-based One-Time Password) every time it is requested. It generates a QR code containing the secret to be shared with other applications.<br />
